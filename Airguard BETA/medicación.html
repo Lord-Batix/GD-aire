@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .cafesito
+        {
+            display: flex;
+            background-color: aqua;
+        }
+
+        .cafesito .historial{
+            display: flex;
+            background-color: brown;
+            color: white;
+            align-items: center;
+
+        }
+
+        .cafesito .historial .reloj-ico {
+            order: 3;
+        }
+
+        .cafesito .cafe{
+            display: flex;
+            align-items: center;
+        }
+        .cafesito .cafe .cafe-ico{
+            order: 0;
+
+        }
+
+        
+
+    </style>
+</head>
+<body>
+
+    <script>
+
+if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/service-worker.js')
+        .then(function(registration) {
+            console.log('Service Worker registrado con éxito:', registration);
+        })
+        .catch(function(error) {
+            console.log('Fallo en el registro del Service Worker:', error);
+        });
+    });
+}
+    </script>
+    
+</body>
+</html>
