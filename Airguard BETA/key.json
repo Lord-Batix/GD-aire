@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "guardian-del-aire-2-ed351",
+  "private_key_id": "5f30107c5907c019d61331057e9e26273e73359e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCYlMn5nZ3uJvC\nR4nI4aSv/vB3QCqLsVvjlfNytwuwtcmYxkBGss1e6EsMoweMQltvrAN8gJqhJN9F\nclTJljuqLi1DIE/0dHta8Xs+f5AJV4Ux9UqLFP9ChmDkpxuKMXaBMXD2tVZxpq70\nijCpS5NjmYVO81svINKNUNn/GFo4d9lsiMZa/6VozLwtkc1rTa21CBChzJj5W4h9\ns2QzjzIKaU7D8iSRcen+m7eoBQxaGVrK/GgU1Sg2n/YcWpXkDi9VFBwlbxXMzIZZ\nbQleoOeHRTLAFWVtwGMhQ8aQ9eAe+a9zUm1iI4g4YmrdhbbLVcPkUwD5OLz+uRV8\nXyDNPhrPAgMBAAECggEAF88qAasi5ksrGO2LnPAL11rSDWlDTNUD56kdpqFxFyCi\neXS0ZB8mifIeBIWQ48cvoqAJKp4op9r3q26eSrV8yBLb4cBQICXcWNQB6ofUFrDX\nqboyepKvKXDYPBQ+iqYVroFl0BzUt8WuNwRuLW5ftpq+pLWo0j73oJjp+sBQMguV\nAnSSOjmo1yqIrKeyErgf+pfmIWa8jX8cdcGftYhEjNHRriSSJGVRH4GN9m+OlmNn\nZQJ+eFiS2FxPfexej4C6CSXKeOYbeejE0eN+E+IComm/5Cvl6AYCYQh0//9iC7tJ\n257eFy07EVYYYHv8npg2QBX62SmQPa8S90+dZ8BocQKBgQD7K0VT5c7FLRi6elvo\nfv1YmJ6J+11CRJ/iQ/DX3zXNJOrUvqM5U9j3OYXoR8yYbIjugjLje/IHPNbdsjkQ\nlsehbhqIqVwT3YbtMUAVPXS45Tk+iwdL1c6CIYPjawxDy5k6tzT4t8VkKCQVWRfm\nTY/2PbGOgfiUnjnYhW7Dy8QA0wKBgQDGH3N5eDwcLuyWICN1kU/MySjDmwhlWOBT\nTXHWnrhHKRzPcomnMmOZbW1Qk9B0lrxawJhAlCfDSuaWshTgXZARNli61mR3cSVH\nr65pO20+oPiumi16cED6I3DcOU+z/u3lLMYKfPn+xn7ekQZjcqtZbjKK9tgbDJpY\nl1qEMCvglQKBgBr3Hk5Pkc9hdBIxKMThPVnRqNOvhOekbnXgTW8fq6sGl5+Xh/aT\npeuE5Xd2neSPYnQYzlXV7LoSMg9DHxVE2tHd/ENHy3bmhaHZc8PUAUAIfAjW7EWc\nAru91WcJCxwMM7s2CB3bvPlvxc/07LfxA8+v9+wQ0BtEkXlJegbTTYu5AoGAVfR1\nM+D/KzcMe8FrwOkPVwh7AAo15Upe4KU722I3DuB+WF4X7IsG/RyljYzjpoFzLGhc\nZcAhVDAdxIl0Vzcgduc+LakwI0XaZ7SHla4roj1SRuYrDvC+sAdKQrE2rB/Q9Fmt\nfgVkrK1Pg54lyGWKg500nmejsHCSUhcwNSN1FdUCgYB+cC3j8b7bYgJjyUuD6O5f\nOtz51cqWmMbwkKf3/HbkZizz8OlsBwOsbn3YI6G9TKapOfvTsF55MqW8OVRJj3cJ\nVv354k/TAEAD8b7oLJxyJdl+lSelN+ka3DEIOYcyx3mr1VRI8WrNB3HF9+nofWQ+\nmKSBdjVbkBWKeoDbstoYMg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gszrq@guardian-del-aire-2-ed351.iam.gserviceaccount.com",
+  "client_id": "106456218417317294647",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gszrq%40guardian-del-aire-2-ed351.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

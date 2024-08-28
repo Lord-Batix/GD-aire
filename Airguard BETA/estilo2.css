@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,900;1,500&family=Roboto:wght@100;300;400;700;900&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  margin: 0;
+  overflow: hidden; /* Evita el scroll */
+}
+
+.fondo {
+  background: linear-gradient(180deg, #80DFED 0%, #092E3D 0.01%, #006C7A 63.54%);
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  text-decoration:none;
+  color: #FFF;
+}
+
+.texto{
+  padding: 30px;
+  font-family: Roboto;
+  font-size: 15px;
+}
+
+.texto p{
+  margin-top: 10px;
+
+}
+
+.carrusel{
+  margin: 30px;
+  width: 280px; 
+  height: 750px;
+  position: absolute; 
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
+.carrusel .tarjeta {
+  background-image: url(img/Tarjeta.png);
+  background-repeat: no-repeat;
+  width: 280px; 
+  height: 750px;
+  padding-left: 14px;
+  padding-right: 14px;
+  display: flex;
+  flex-direction: column;
+  color: #FFF;
+}
+
+
+
+.contenedor{
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+.texto-tarjeta h1 {
+
+margin-top: 20px;
+padding: 10px;
+  
+  color: #FFF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Roboto;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  letter-spacing: 1.32px;
+  
+
+}
+
+.tarjeta img{
+  width: 212px;
+  height: auto;
+  align-content:baseline ;
+
+  
+  
+}
+
+.texto-tarjeta p{
+  margin-top: 10px;
+  
+  
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: justify;
+}
+
+
+.dots{
+  background-color: beige;
+  margin: 30px;
+  color: black;
+  justify-content: center;
+  display: flex;
+
+}
+
